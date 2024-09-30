@@ -1,0 +1,72 @@
+[
+  {
+    "isim": "Su",
+    "kalori": "0 Kalori",
+    "karbonhidrat": "0 gram",
+    "protein": "0 gram",
+    "yag": "0 gram"
+  },
+  {
+    "isim": "Kola",
+    "kalori": "139 Kalori",
+    "karbonhidrat": "39 gram",
+    "protein": "0 gram",
+    "yag": "0 gram"
+  },
+  {
+    "isim": "Meyve Suyu",
+    "kalori": "45 Kalori",
+    "karbonhidrat": "11 gram",
+    "protein": "0.5 gram",
+    "yag": "0.1 gram"
+  },
+  {
+    "isim": "Süt",
+    "kalori": "42 Kalori",
+    "karbonhidrat": "5 gram",
+    "protein": "3 gram",
+    "yag": "1 gram"
+  },
+  {
+    "isim": "Çay",
+    "kalori": "1 Kalori",
+    "karbonhidrat": "0 gram",
+    "protein": "0 gram",
+    "yag": "0 gram"
+  },
+  {
+    "isim": "Kahve",
+    "kalori": "2 Kalori",
+    "karbonhidrat": "0 gram",
+    "protein": "0 gram",
+    "yag": "0 gram"
+  },
+  {
+    "isim": "Bira",
+    "kalori": "43 Kalori",
+    "karbonhidrat": "3.6 gram",
+    "protein": "0.5 gram",
+    "yag": "0 gram"
+  },
+  {
+    "isim": "Enerji İçeceği",
+    "kalori": "50 Kalori",
+    "karbonhidrat": "13 gram",
+    "protein": "0 gram",
+    "yag": "0 gram"
+  },
+  {
+    "isim": "Ayran",
+    "kalori": "50 Kalori",
+    "karbonhidrat": "5 gram",
+    "protein": "3 gram",
+    "yag": "2 gram"
+  },
+  {
+    "isim": "Soda",
+    "kalori": "0 Kalori",
+    "karbonhidrat": "0 gram",
+    "protein": "0 gram",
+    "yag": "0 gram"
+  }
+]
